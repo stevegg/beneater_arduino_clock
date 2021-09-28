@@ -1,8 +1,9 @@
 // Simple 2 mode clock circuit to replace Ben Eater's 555 timer
 // version.
 
-#define STEP_BUTTON 2
 #define MODE_BUTTON 3
+#define STEP_BUTTON 2
+
 #define CLOCK 4
 
 
