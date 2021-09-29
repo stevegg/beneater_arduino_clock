@@ -6,3 +6,4 @@ I was running into some issues that I thought might be related to the clock modu
 The sketch takes the value of RV1 and inverts it so that the lowest value has the longest frequency and the highest value has the shortest.  Because I didn't think an interval of 0 made sense I added 10ms as a minumum delay for the duty cycle.
 
 ![Schematic](https://github.com/stevegg/beneater_arduino_clock/blob/main/schematic.png?raw=true)
+
